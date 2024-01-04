@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/392940692_2265399297183888_8047700556223484876_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeEnNKigulDO-DO0gWNBw84_qHxqKmI0I5yofGoqYjQjnIFNyUCgwhOUKuqhis32cttWMeXm5D2ym0aZODqdhJ41&_nc_ohc=IG9L6Kt8GIQAX-T6Ami&_nc_ht=scontent.fdac24-4.fna&oh=00_AfAkt4kVjwTFpYDjlpFgMRaIcpsFiQUQrx_YTvQ8fiqvow&oe=659C3652" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
@@ -94,14 +94,6 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mnahidislam39&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
 
 <br/>  
 
