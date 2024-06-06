@@ -5,9 +5,6 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
 
 - 📫 How to reach me **devnahidislam4@gmail.com**
-
-- 📄 Know about my experiences [https://mnahidislam39.github.io/portfolio/assets/file/resume.pdf](https://mnahidislam39.github.io/portfolio/assets/file/resume.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mnahidislam39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mnahidislam39" height="30" width="40" /></a>
