@@ -1,13 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nahid Islam</h1>
-<h3 align="center">front-end developer </h3>
+<h3 align="center">Full-Stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnahidislam39&label=Profile%20views&color=0e75b6&style=flat" alt="mnahidislam39" /> </p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
-- 🌱 I’m currently learning **JS PHP WordPress**
-
-- 👨‍💻 All of my projects are available at [https://mnahidislam39.github.io/portfolio](https://mnahidislam39.github.io/portfolio)
-
-- 💬 Ask me about **Front-end**
 
 - 📫 How to reach me **devnahidislam4@gmail.com**
 
