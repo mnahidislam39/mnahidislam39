@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there👋, I'm Nahd Islam. </h1>
-<h4>A Full-Stack Developer.</h4> 
-I am a Full Stack Web Developer. I am working with Laravel, PHP, Vue JS.
+<p>A Full-Stack Developer.</p> 
+I am a Full Stack Web Developer. I am working with JS, Vue JS, Laravel, PHP.
 
 - 🔭 2024 Goal **Build more projects**
 - 🌱 I’m currently learning **Developing**
