@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi there [https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif], I'm Nahd Islam. </h1>
+<h1 align="left">Hi there, It's me Nahd Islam. </h1>
 <p>A Full-Stack Developer.</p> 
 I am a Full Stack Web Developer. I am working with JS, Vue JS, PHP, Laravel.
 
