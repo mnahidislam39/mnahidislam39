@@ -1,6 +1,6 @@
 
-<h1 align="left">Hi there, It's me Nahd Islam. </h1>
-<p>A Full-Stack Developer.</p> 
+**<h1 align="left">Hi there, It's me Nahd Islam. </h1>**
+*<h4>A Full-Stack Developer.</h4>*
 I am a Full Stack Web Developer. I am working with JS, Vue JS, PHP, Laravel.
 
 - 🔭 2024 Goal **Build more projects**
