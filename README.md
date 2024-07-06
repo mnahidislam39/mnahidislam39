@@ -1,7 +1,6 @@
 
-**<h1 align="left">Hi, It's me Nahid Islam. </h1>**
-*<h4>A Full-Stack Developer.</h4>*
-I am a Full Stack Web Developer.
+**<h1 align="left">Hi, It's me Nahid Islam. </h1>** *<h4>I am a Full Stack Web Developer.</h4>*
+
 - 🔭 2024 Goal **Build more projects**
 - 🌱 I’m currently learning **Developing**
 - 👯 I’m looking to collaborate on **Projects**
