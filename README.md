@@ -1,7 +1,7 @@
 <img src="https://github.com/mnahidislam39/mnahidislam39/blob/main/1_yw0TnheAGN-LPneDaTlaxw.gif" width="100%" alt="Nahid Islam Banner" />
 
 <h1 align="center">Hi, I'm Nahid Islam 👋</h1>
-<h3 align="center">Full-Stack Web Developer | JavaScript, Vue.js, PHP, Laravel, Shopify, WordPress</h3>
+<h3 align="center">Full-Stack Developer & Creative Designer JS | Vue.js | PHP | Laravel | Shopify | WordPress</h3>
 
 ---
 
