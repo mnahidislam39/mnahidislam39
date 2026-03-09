@@ -7,7 +7,11 @@
 
 ### 💼 About Me
 
-I am an experienced Full-Stack Web Developer specializing in both front-end and back-end technologies. I have strong expertise in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JavaScript, jQuery, Vue.js, PHP, and Laravel. I also have extensive experience with CMS platforms like Shopify and WordPress, building eCommerce stores and dynamic websites tailored to business needs. I am passionate about writing clean, efficient, and scalable code, following best practices, and delivering high-quality web applications. With strong problem-solving skills and a collaborative mindset, I am committed to helping businesses grow by creating user-friendly, responsive, and innovative web solutions. I am always excited to bring creativity, technical excellence, and dedication to new projects and professional teams.
+I am an experienced Full-Stack Web Developer specializing in both front-end and back-end technologies. 
+
+I have strong expertise in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JavaScript, jQuery, Vue.js, PHP, and Laravel. I also have extensive experience with CMS platforms like Shopify and WordPress, building eCommerce stores and dynamic websites tailored to business needs.
+
+I am passionate about writing clean, efficient, and scalable code, following best practices, and delivering high-quality web applications. With strong problem-solving skills and a collaborative mindset, I am committed to helping businesses grow by creating user-friendly, responsive, and innovative web solutions. I am always excited to bring creativity, technical excellence, and dedication to new projects and professional teams.
 
 - 🔥 Expertise in custom Laravel + Vue.js applications  
 - 🛍️ CMS development with WordPress and Shopify  
