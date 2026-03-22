@@ -7,16 +7,38 @@
 
 ### 💼 About Me
 
-I am an experienced Full-Stack Web Developer specializing in both front-end and back-end technologies. 
+I am a **Shopify-focused Full-Stack Web Developer and Team Leader**, currently leading a team in delivering high-quality eCommerce solutions. My primary expertise lies in **Shopify store development, customization, and performance optimization**, helping businesses build scalable and conversion-focused online stores.
 
-I have strong expertise in HTML, CSS, Bootstrap, Tailwind CSS, SASS, JavaScript, jQuery, Vue.js, PHP, and Laravel. I also have extensive experience with CMS platforms like Shopify and WordPress, building eCommerce stores and dynamic websites tailored to business needs.
+Alongside Shopify, I have strong expertise in **HTML, CSS, Bootstrap, Tailwind CSS, SASS, JavaScript, jQuery, Vue.js, PHP, and Laravel**, allowing me to handle both **front-end and back-end development** efficiently.
 
-I am passionate about writing clean, efficient, and scalable code, following best practices, and delivering high-quality web applications. With strong problem-solving skills and a collaborative mindset, I am committed to helping businesses grow by creating user-friendly, responsive, and innovative web solutions. I am always excited to bring creativity, technical excellence, and dedication to new projects and professional teams.
+As a Team Leader, I manage **project planning, guide developers, maintain code quality**, and ensure **timely project delivery**. I am passionate about writing **clean, maintainable, and scalable code** while following modern development standards.
 
-- 🔥 Expertise in custom Laravel + Vue.js applications  
-- 🛍️ CMS development with WordPress and Shopify  
-- 🎯 Frontend UI with modern CSS frameworks  
-- ✅ Clean code, fast delivery, scalable solutions  
+With strong **problem-solving skills, leadership experience, and a collaborative mindset**, I am committed to helping businesses grow by creating **user-friendly, responsive, and high-performing web solutions**.
+
+---
+
+### 🚀 What I Do / Services
+
+- 🛍️ **Shopify Store Development & Customization**  
+  Build fully functional, scalable, and conversion-focused eCommerce stores with custom features and apps.
+
+- 🎨 **Frontend Development & UI Design**  
+  Responsive and modern UI using **HTML, CSS, Tailwind CSS, Bootstrap, and JavaScript**.
+
+- ⚡ **Backend Development**  
+  Custom web applications and APIs using **PHP, Laravel, and Vue.js**.
+
+- 🛠️ **WordPress & CMS Solutions**  
+  Custom WordPress websites, themes, plugins, and optimization for business needs.
+
+- 🚀 **Performance Optimization & SEO-friendly Code**  
+  Fast, secure, and search engine optimized websites.
+
+- 📈 **Team Leadership & Project Management**  
+  Planning, guiding developers, maintaining code standards, and ensuring on-time delivery.
+
+- 🧩 **Bug Fixing & Maintenance**  
+  Continuous support for existing websites, feature updates, and troubleshooting.
 
 ---
 
